@@ -23,7 +23,6 @@ header {
 }
 
 .ingresso{
-    color:  #F3C61F;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
     margin-left: 95px;
@@ -64,13 +63,6 @@ header {
     grid-auto-flow: column;
     width: 580px;
     color: #514988;
-    ;
-}
-
-.flex-container .contArle{
-   background-color: #FFFFFF;
-    display: flex;
-    flex-direction: column;
 }
 
 .flex-container .info{
